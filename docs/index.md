@@ -22,5 +22,9 @@ Redsting is a ble RC car. Esp32 on board controlled by PS3 controller
 
 etc.
 
-## simple picture 
-<img src="/home/boris/Desktop/redsting/docs/images/pcb_cap_2.PNG" alt="image" style="zoom:33%;" />
+## sample picture
+
+<img src="img/pcb_cap_2.PNG" alt="Screenshot" style="zoom:33%;" />
+
+img src="img/ESP32-VROOM-32D-PINOUT.png" alt="Screenshot" style="zoom:33%;" />
+*Above: Cupcake indexer in progress*
