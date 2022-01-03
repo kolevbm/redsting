@@ -25,6 +25,8 @@ etc.
 ## sample picture
 
 <img src="img/pcb_cap_2.PNG" alt="Screenshot" style="zoom:33%;" />
-
-img src="img/ESP32-VROOM-32D-PINOUT.png" alt="Screenshot" style="zoom:33%;" />
-*Above: Cupcake indexer in progress*
+Above: Cupcake indexer in progress*
+<img src="img/ESP32-VROOM-32D-PINOUT.png" alt="Screenshot" style="zoom:33%;" />
+Above: Cupcake indexer in progress*
+<img src="img/ESP32-30PIN-DEVBOARD.png" alt="Screenshot" style="zoom:33%;" />
+*Above: ESP32 30 pin devboard*
